@@ -5,7 +5,7 @@ cfgv==3.4.0
 charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
-distlib==0.3.8
+distlib==0.3.9
 EditorConfig==0.12.4
 filelock==3.14.0
 ghp-import==2.1.0
