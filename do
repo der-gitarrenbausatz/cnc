@@ -78,6 +78,36 @@ function task_build_static {
   info "You can find the statically rendered docs in /site"
 }
 
+## export-obsidian: export Obsidian notes to markdown
+function task_export_obsidian {
+  info "Deleting existing docs directory..."
+  rm -rf docs/*
+
+  info "Exportin Obsidian notes to markdown..."
+  export_dir="$(pwd)/docs"
+  pushd ~/workspace
+  obsidian-export cnc-obsidian --start-at cnc-obsidian/cnc/cnc "${export_dir}"
+  popd
+
+  info "Fixing links to images..."
+  ./image_replace.sh
+
+  info "Converting __pages.md to .pages"
+  find docs -type f -name '__pages.md' | while read -r file; do
+    # Remove lines containing only '---'
+    sed -i '' '/^---$/d' "$file"
+    # Build new filename: replace __pages.md with .pages
+    newfile="$(dirname "$file")/.pages"
+    mv "$file" "$newfile"
+    echo "Processed and renamed: $file -> $newfile"
+  done
+
+  info "Remove Obsidian TOCs"
+  find docs -type f -name "*.md" | while read -r file; do
+    perl -0777 -i -pe 's/````toc\s*````\n?//g' "$file"
+  done
+}
+
 function task_usage() {
 	echo "Usage: $0"
 	sed -n 's/^##//p' <"$0" | column -t -s ':' | sed -E $'s/^/\t/' | sort
