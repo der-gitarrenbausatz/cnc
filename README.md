@@ -27,3 +27,4 @@ The content of the site is managed in Obsidian and rendered using MkDocs. This r
 * [zoni/obsidian-export](https://github.com/zoni/obsidian-export)
 * [mkdocs](https://www.mkdocs.org/)
 * [Gist on how this works](https://gist.github.com/michaellihs/ca1b7efc3892734445fa9109047f7155)
+* [mkdocs starter kit](https://github.com/michaellihs/mkdocs-starter)
