@@ -1,45 +1,29 @@
-# mkdocs Starter Kit
+# Webseite "CNC für Gitarrenbauer"
 
-This repo provides a pre-configured [mkdocs](https://www.mkdocs.org/) for rendering documentation as code from markdown files. It comes with
+This repo contains a website that provides information about CNC for guitar builders.
 
-- an opinionated set of plugins
-- an opinionated configuration
-- developer tools for linting and code checks
-- a GitHub workflow to publish the rendered documentation as GitHub pages
+The website can be found at [https://cnc.der-gitarrenbausatz.de](https://cnc.der-gitarrenbausatz.de).
 
-Here cou can find the [User Documentation](https://michaellihs.github.io/mkdocs-starter) of this starter kit.
+The content of the site is managed in Obsidian and rendered using MkDocs. This repository mainly contains
 
-## Prerequisites
+* the conversion scripts to convert the Obsidian content into Markdown files
+* the configuration for MkDocs and the
+* GitHub workflow to publish the site
 
-These are the prerequisites for working with this repository:
+## Converting the Obsidian content
 
-- Python
+```shell
+./do export-obsidian
+```
 
-## Getting started
+## Serving the site locally
 
-1. Create a virtual Python environment to not mess up your system installation of Python
+```shell
+./do serve
+```
 
-   ```bash
-   python3 -m venv .venv && source ./.venv/bin/activate
-   ```
+## References and tools used
 
-2. Install Python dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Install `pre-commit`
-
-   ```bash
-   brew install pre-commit
-   pre-commit install
-   ```
-
-4. Time to spin up `mkdocs`
-
-   ```bash
-   mkdocs serve
-   ```
-
-   This will start a local webserver at [http://127.0.0.1:8000/](http://127.0.0.1:8000/) that shows your documentation.
+* [zoni/obsidian-export](https://github.com/zoni/obsidian-export)
+* [mkdocs](https://www.mkdocs.org/)
+* [Gist on how this works](https://gist.github.com/michaellihs/ca1b7efc3892734445fa9109047f7155)
