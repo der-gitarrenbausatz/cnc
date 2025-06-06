@@ -22,6 +22,14 @@ The content of the site is managed in Obsidian and rendered using MkDocs. This r
 ./do serve
 ```
 
+## Open tasks
+
+* [ ] Add file watcher to `./do` script to automatically convert Obsidian files to Markdown when they change
+* [ ] Add sanity checks to the `./do` script and GH workflow to ensure that the `.pages` files are in proper state
+  * contain references to all pages in the subdir
+  * references are correct
+  * pages have a `title` set in the frontmatter
+
 ## References and tools used
 
 * [zoni/obsidian-export](https://github.com/zoni/obsidian-export)
