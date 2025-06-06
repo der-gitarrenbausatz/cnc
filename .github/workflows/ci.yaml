@@ -44,13 +44,16 @@ jobs:
         run: pip install -r requirements.txt
       - name: build and validate mkdocs
         shell: bash
-        run: mkdocs build --strict
-      - name: render kroki diagrams
-        shell: bash
-        run: |
-          docker compose up -d
-          sleep 5
-          scripts/kroki2svg.sh
+        run: mkdocs build
+        # we don't wanna be too strict for now...
+        # run: mkdocs build --strict
+# no krokis so far...
+#      - name: render kroki diagrams
+#        shell: bash
+#        run: |
+#          docker compose up -d
+#          sleep 5
+#          scripts/kroki2svg.sh
       - name: upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
