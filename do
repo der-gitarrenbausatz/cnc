@@ -99,6 +99,8 @@ function task_export_obsidian {
     # Build new filename: replace __pages.md with .pages
     newfile="$(dirname "$file")/.pages"
     mv "$file" "$newfile"
+    # Remove the last two empty lines at the end of the .pages file
+    sed -i '' -e ':a' -e '/^\n*$/{$d;N;ba' -e '}' "$newfile"
     echo "Processed and renamed: $file -> $newfile"
   done
 
