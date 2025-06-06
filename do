@@ -97,7 +97,7 @@ function task_export_obsidian {
     # Remove lines containing only '---'
     sed -i '' '/^---$/d' "$file"
     # Build new filename: replace __pages.md with .pages
-    newfile="$(dirname "$file")/.pages"
+    newfile="$(dirname "$file")/.nav.yml"
     mv "$file" "$newfile"
     # Remove the last two empty lines at the end of the .pages file
     sed -i '' -e ':a' -e '/^\n*$/{$d;N;ba' -e '}' "$newfile"

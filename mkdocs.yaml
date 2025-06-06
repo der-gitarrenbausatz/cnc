@@ -44,7 +44,7 @@ plugins:
       background: white
       shadow: true
       manual: false
-  - awesome-pages
+  - awesome-nav
 
 markdown_extensions:
   - def_list
