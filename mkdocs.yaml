@@ -1,18 +1,14 @@
 site_name: Gitarrenbau und CNC
-repo_name: cnc
-repo_url: https://github.com/der-gitarrenbausatz/cnc
+#repo_name: cnc
+#repo_url: https://github.com/der-gitarrenbausatz/cnc
 docs_dir: docs
 exclude_docs: |
   - excluded-doc.md
 
-edit_uri: edit/main/docs/
 
 theme:
   name: material
-  features:
-    - content.action.edit
-  icon:
-    edit: material/pencil
+  language: de
   palette:
     - scheme: default
       toggle:
@@ -22,9 +18,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
-nav:
-  - '🏠 Home': 'index.md'
 
 plugins:
   - markdownextradata:
@@ -51,6 +44,7 @@ plugins:
       background: white
       shadow: true
       manual: false
+  - awesome-pages
 
 markdown_extensions:
   - def_list
