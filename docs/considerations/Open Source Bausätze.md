@@ -20,7 +20,7 @@ Meist ist ein möglichst günstiger Preis und leichte Verfügbarkeit der benöti
 
 Wer sich eine eigene Fräse bauen möchte, kann sich durch die Pläne und Blog Posts entsprechend inspirieren lassen.
 
-Neben diesen Bausätzen habe ich unter [Inspiration, Videos & Blogs](../planning/CNC-Fr%C3%A4se%20-%20Inspiration,%20Videos%20&%20Blogs.md) weitere interessante Videos und Beiträge zusammengestellt.
+Neben diesen Bausätzen habe ich unter [Inspiration, Videos & Blogs](../planning/Inspiration,%20Videos%20&%20Blogs.md) weitere interessante Videos und Beiträge zusammengestellt.
 
 ## Uncle Phil's Volksfräse
 

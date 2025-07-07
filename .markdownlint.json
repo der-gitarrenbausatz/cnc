@@ -2,5 +2,5 @@
     "MD013" : false,
     "MD007" : false,
     "MD028" : false,
-    "MD033" : { "allowed_elements": ["br"] }
+    "MD033" : { "allowed_elements": ["br", "img"] }
 }

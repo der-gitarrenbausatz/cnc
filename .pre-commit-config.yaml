@@ -8,7 +8,6 @@ repos:
       - id: check-executables-have-shebangs
       - id: check-symlinks
       - id: check-merge-conflict
-      - id: check-added-large-files
       - id: check-json
       - id: check-yaml
         args: [ --allow-multiple-documents, --unsafe ]

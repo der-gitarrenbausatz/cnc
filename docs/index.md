@@ -15,7 +15,7 @@ Die Seite ist momentan unterteilt in mehrere Abschnitte:
 * unter *CNC Fräse selberbauen* erkläre ich Schritt für Schritt den Zusammenbau meiner Fräse
 * in *Betrieb einer CNC Fräse* findet ihr Tipps & Tricks für den Einsatz von CNC-Fräsen im Gitarrenbau
 
-Daneben habe ich in einem Abschnitt interessante [Technisches Hintergrundwissen](technical/linear-rails.md) rund um CNC-Fräsen zusammengetragen.
+Daneben habe ich in einem Abschnitt interessante [Technisches Hintergrundwissen](technical/linearf%C3%BChrungen.md) rund um CNC-Fräsen zusammengetragen.
 
 Eine [Liste von Herstellern und Shops](shops/linear-technic.md) vervollständigt den Inhalt fürs erste. Viel Spaß beim Schmökern und Lernen!
 
