@@ -6,7 +6,7 @@ title: 🏠 Startseite
 
 Seit 2024 habe ich mich intensiv mit dem Bau einer CNC Fräse beschäftigt und durfte dabei viele interessante Dinge im Bereich Maschinenbau, CAD und sogar ein bisschen Elektrotechnik lernen.
 
-Mit dieser Webseite möchte ich anderen Gitarrenbauer_innen dabei helfen, einen Einstieg in die spannende Welt der CNC-Bearbeitungen - insbesondere für den Gitarrenbau - zu finden. Wer ich bin und warum ich das mache erfahrt ihr *hier*.
+Mit dieser Webseite möchte ich anderen Gitarrenbauer_innen dabei helfen, einen Einstieg in die spannende Welt der CNC-Bearbeitungen - insbesondere für den Gitarrenbau - zu finden. Wer ich bin und warum ich das mache erfahrt ihr [hier](about/about.md).
 
 Die Seite ist momentan unterteilt in mehrere Abschnitte:
 
