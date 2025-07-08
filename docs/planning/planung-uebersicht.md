@@ -4,12 +4,12 @@ title: Planung - Übersicht
 
 ## CAD Zeichnen lernen
 
-Zuerst einmal musste ich lernen, wie ein CAD Programm funktioniert - ich habe dabei die Software [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) von Autodesk verwendet, welche für nicht-kommerzielle Nutzung kostenfrei ist. Unter [Fusion 360 lernen](Fusion%20360%20lernen.md) hab ich sowohl gute Videso verlinkt, also auch einige eigene Learnings zusammengetragen.
+Zuerst einmal musste ich lernen, wie ein CAD Programm funktioniert - ich habe dabei die Software [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) von Autodesk verwendet, welche für nicht-kommerzielle Nutzung kostenfrei ist. Unter [Fusion 360 Tipps & Tricks](fusion-360-tips.md) hab ich sowohl gute Videos verlinkt, also auch einige eigene Learnings zusammengetragen.
 
 ## Inspiration, Videos & Blogs
 
 * Sehr viel Inspiration zum Bau meiner Fräse habe ich mir bei sogenannten [Open Source Bausätze](../considerations/Open%20Source%20Baus%C3%A4tze.md) geholt. Was das genau ist und welche es gibt wird unter dem Link genauer beschrieben.
-* Unter [Inspiration, Videos & Blogs](Inspiration,%20Videos%20&%20Blogs.md) hab ich darüberhinaus ein paar gute Videos und Internetfundstücke rund um den Entwurf und den Bau von CNC-Fräsen gesammelt.
+* Unter [inspiration-videos-blogs](inspiration/inspiration-videos-blogs.md) hab ich darüberhinaus ein paar gute Videos und Internetfundstücke rund um den Entwurf und den Bau von CNC-Fräsen gesammelt.
 
 ## Grundidee und Entwurfskriterien
 

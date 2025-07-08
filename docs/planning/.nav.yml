@@ -1,7 +1,7 @@
 title: CNC-Fräse Eigenbau - Planung
 nav:
-- Planung - Übersicht.md
-- Fusion 360 lernen.md
+- planung-uebersicht.md
+- fusion-360-tips.md
 - Grundgedanken zur Konstruktion der CNC Fräse.md
 - ChatGPT.md
 - konstruktion-fraesstisch.md
@@ -13,7 +13,6 @@ nav:
 - absaugung.md
 - Gimmicks.md
 - Vakuumtisch.md
-- CNC-Fräse - Inspiration, Videos & Blogs.md
-- Portalfräse Eigenbau.md
 - Planungsfehler.md
 - required-parts
+- inspiration

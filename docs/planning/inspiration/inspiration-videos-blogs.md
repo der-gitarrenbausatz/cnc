@@ -7,7 +7,7 @@ title: Inspiration aus Videos & Blogs
 * <https://www.youtube.com/watch?v=I4je3Rqy9fE>
   ![400](/images/Pasted image 20250519223639.png)
 
-* [Portalfräse Eigenbau](Portalfr%C3%A4se%20Eigenbau.md)
+* [portalfraese-eigenbau](portalfraese-eigenbau.md)
   ![400](/images/Pasted image 20250519223730.png)
 
 * [Sorotec Aufbau](https://www.youtube.com/watch?v=xx4V6vrAw04)
@@ -24,7 +24,7 @@ title: Inspiration aus Videos & Blogs
   * <https://www.youtube.com/@kd_design>
   * <https://www.youtube.com/@LifeLatitudes>
 * <https://www.youtube.com/watch?v=L6Nz-tDjHgQ> Frohnix Bastelbude
-  ![Pasted image 20241117235523.png](/images/Pasted image 20241117235523.png)
+  ![400](/images/Pasted image 20241117235523.png)
 
 * Dart Art Guitars
 
@@ -32,11 +32,11 @@ title: Inspiration aus Videos & Blogs
   * <https://www.youtube.com/watch?v=IqTbladmAzg>
 * [Polymerbeton](https://www.youtube.com/watch?v=PUT_hOrYDZ8)
 
-* [Linearführungen ausrichten](../building/Linearf%C3%BChrungen%20ausrichten.md)
+* [Linearführungen ausrichten](../../building/Linearf%C3%BChrungen%20ausrichten.md)
 
-* [Gimmicks](Gimmicks.md)
+* [Gimmicks](../Gimmicks.md)
 
-* [Vakuumtisch](Vakuumtisch.md)
+* [Vakuumtisch](../Vakuumtisch.md)
 
 * [Portal Bau](https://www.youtube.com/watch?v=9qFnZ3uFP_Q)
 
@@ -53,4 +53,4 @@ title: Inspiration aus Videos & Blogs
 
 ## Open Source CNC Fräsen
 
-* [Open Source Bausätze](../considerations/Open%20Source%20Baus%C3%A4tze.md)
+* [Open Source Bausätze](../../considerations/Open%20Source%20Baus%C3%A4tze.md)

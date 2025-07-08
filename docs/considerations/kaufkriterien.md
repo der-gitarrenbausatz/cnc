@@ -12,7 +12,9 @@ Das wichtigste Kriterium ist vermutlich die Größe der Fräse. Dabei werden mei
 1. Die maximale Breite des Werkstücks, das bearbeitet werden kann
 1. Die maximale Höhe des Werkstücks, das bearbeitet werden kann
 
-Diese Parameter werden oft auch *Verfahrwege* in X-, Y- und Z-Richtung genannt.
+Diese Parameter werden *Verfahrwege* in X-, Y- und Z-Richtung genannt.
+
+![600](/images/verfahrwege.png)
 
 ## Aufstellmaße der Fräse
 
@@ -54,6 +56,8 @@ Für die eigentliche Bewegung der Fräse werden Motoren eingesetzt, die jeweils 
 1. **Schrittmotoren im "Closed Loop" Betrieb**: der Motor bekommen einen Impuls, einen Bewegungsschritt zu machen und ein Zähler überprüft, ob dieser Schritt auch tatsächlich ausgeführt wurde. Gegenfalls wird nachgesteuert oder ein Alarm ausgelöst.
 1. **Servomotoren**: gelten gemeinhin als schneller und präziser, als Schrittmotoren, aber auch teurer und in der Handhabung komplizierter.
 
+Siehe auch [Schrittmotoren](../technical/schrittmotoren.md)
+
 ## Frässpindel
 
 Die Frässpindel ist der Antrieb für den Fräser (also wie eine Oberfräse, die in die CNC-Fräse eingespannt wird). Für den Preis der Frässpindel relevant sind dabei folgende Kriterien:
@@ -64,6 +68,8 @@ Die Frässpindel ist der Antrieb für den Fräser (also wie eine Oberfräse, die
 * Werkzeugaufnahme
 
 Ein weiteres Kriterium ist, ob die Spindel luft- oder wassergekühlt ist. Bei wassergekühlten Spindeln wird zusätzlich eine Pumpe zur Zirkulation des Kühlmittels benötigt.
+
+Siehe auch [Frässpindel](../technical/spindle.md)
 
 ## Automatischer Werkzeugwechsel (ATC)
 
@@ -85,6 +91,8 @@ Zusammen mit den Controllern wird meistens auch die Software festgelegt, mit der
 
 Letztlich sollte der Bedienungskomfort entscheidend sein, und ob z.B. im Bekanntenkreis jemand bereits ein System hat, und bei der Einarbeitung etc. helfen kann.
 
+Siehe auch [CNC-Controller](../technical/cnc-controller.md)
+
 ## Weiteres Zubehör
 
 Die meisten CNC Fräsen können darüberhinaus in vielen Bereichen erweitert werden, so z.B. mit
@@ -97,3 +105,11 @@ Die meisten CNC Fräsen können darüberhinaus in vielen Bereichen erweitert wer
 Viele Firmen liefern ihre CNC Fräse als Baukasten und es braucht ein gewisses feinmechanisches Geschick um die Maschinen aufzubauen. Vor allem die exakte Ausrichtung und Justage der Fräse benötigt darüberhinaus präzise Messuhren.
 
 Beim Preis der Maschine ist also zu berücksichtigen, ob der Zusammenbau inbegriffen ist oder nicht.
+
+Siehe auch [Open Source Bausätze](Open%20Source%20Baus%C3%A4tze.md)
+
+## "Eigenleistung"
+
+Mit etwas handwerklichem Geschick lassen sich bei einer CNC Fräse viele Dinge selber machen und dadurch Kosten sparen. Das Spektrum reicht dabei vom kompletten Eigenbau einer Fräse bis hin zu diversen Hilfswerkzeugen in Ergänzung zu einer fertig gebauten Fräse.
+
+Unter [inspiration-videos-blogs](../planning/inspiration/inspiration-videos-blogs.md) habe ich einige Quellen im Internet zusammengestellt, wo ihr euch inspirieren lassen könnt.

@@ -15,3 +15,5 @@ title: Planungsfehler
   * teilweise begrenzen diese den Endanschlag unnötig
 * Loselager auf der X-Achse "falsch rum"
   * Aussparung in Lagerhalter zu klein
+* Untergestell
+  * Schaltschrank passt nicht zwischen Tischoberseite und Verstärkung
