@@ -1,5 +1,6 @@
 title: Betrieb einer CNC Fräse
 nav:
+- betrieb-uebersicht.md
 - Werkzeuge für den Betrieb.md
 - Masso Controller.md
 - CAM Modelling mit Fusion 360.md

@@ -2,23 +2,56 @@
 title: 🏠 Startseite
 ---
 
-## Worum geht es hier?
+## Gitarrenbau und CNC
 
-Seit 2024 habe ich mich intensiv mit dem Bau einer CNC Fräse beschäftigt und durfte dabei viele interessante Dinge im Bereich Maschinenbau, CAD und sogar ein bisschen Elektrotechnik lernen.
+Mit dieser Webseite möchte ich Gitarrenbauer_innen dabei helfen, einen Einstieg in die spannende Welt der CNC-Bearbeitungen - insbesondere für den Gitarrenbau - zu finden. Wer ich bin und warum ich das mache erfahrt ihr [hier](about/about.md).
 
-Mit dieser Webseite möchte ich anderen Gitarrenbauer_innen dabei helfen, einen Einstieg in die spannende Welt der CNC-Bearbeitungen - insbesondere für den Gitarrenbau - zu finden. Wer ich bin und warum ich das mache erfahrt ihr [hier](about/about.md).
+<div class="grid cards" markdown>  
 
-Die Seite ist momentan unterteilt in mehrere Abschnitte:
+* :fontawesome-solid-money-bill-1:{ .lg .middle } **CNC Fräse kaufen**
 
-* in [Warum eine CNC-Fräse](considerations/Zweck.md) teile ich ein paar Überlegungen zur Anschaffung welche Maschine die passende für euch ist
-* in [Planung einer eigenen CNC-Fräse](planning/Grundgedanken%20zur%20Konstruktion%20der%20CNC%20Fr%C3%A4se.md) erkläre ich wie ich bei der Planung meiner Fräse vorgegangen bin
-* unter *CNC Fräse selberbauen* erkläre ich Schritt für Schritt den Zusammenbau meiner Fräse
-* in *Betrieb einer CNC Fräse* findet ihr Tipps & Tricks für den Einsatz von CNC-Fräsen im Gitarrenbau
+  ---
 
-Daneben habe ich in einem Abschnitt interessante [Technisches Hintergrundwissen](technical/linearf%C3%BChrungen.md) rund um CNC-Fräsen zusammengetragen.
+  Du planst den Kauf einer CNC Fräse für Gitarrenbau - hier findest du Tipps und Emfpehlungen für den Kauf.
 
-Eine [Liste von Herstellern und Shops](shops/linear-technic.md) vervollständigt den Inhalt fürs erste. Viel Spaß beim Schmökern und Lernen!
+  [:octicons-arrow-right-24: Anschaffung einer CNC Fräse](considerations/kaufkriterien.md)
+
+* :material-floor-plan:{ .lg .middle } **CNC Fräse konstruieren**
+
+  ---
+
+  Du planst den Eigenbau einer CNC Fräse - hier lernst du, wie ich meine Fräse konstruiert habe.
+
+  [:octicons-arrow-right-24: CNC Fräse - Konstruktion](planning/planung-uebersicht.md)
+
+* :material-wrench:{ .lg .middle } **CNC Fräse selberbauen**
+
+  ---
+
+  Du möchtest eine CNC Fräse selber bauen - hier findest du meine Anleitung für den Aufbau einer Fräse.
+
+  [:octicons-arrow-right-24: CNC Fräse - selberbauen](building/selberbauen-uebersicht.md)
+
+* :material-account-hard-hat-outline:{ .lg .middle } **Betrieb einer CNC Fräse**
+
+  ---
+
+  Du interessierst dich dafür, eine CNC Fräse in Betrieb zu nehmen, dann bist du hier genau richtig.
+
+  [:octicons-arrow-right-24: Betrieb einer CNC-Fräse](operating/betrieb-uebersicht.md)
+
+* :material-library:{ .lg .middle } **CNC Technik**
+
+  ---
+
+  Du möchtest mehr über die technischen Komponenten einer CNC Fräse erfahren - dann klicke hier.
+
+  [:octicons-arrow-right-24: CNC-Technik](technical/uebersicht.md)
+
+</div>
+
+Falls du Bauteile oder CNC Zubehör kaufen möchtest, findest du hier eine [Liste von Herstellern und Shops](shops/linear-technic.md).
 
 ## Feedback gewünscht
 
-Falls ihr Rückmeldungen zur Seite habt, euch etwas fehlt oder Verbesserungsvorschläge machen wollt, schreibt mir bitte gerne jederzeit - ich freue mich auf euer Feedback!
+Falls du Rückmeldungen zur Seite hast, etwas fehlt oder du Verbesserungsvorschläge machen willst, schreib mir bitte gerne jederzeit - ich freue mich auf Feedback!

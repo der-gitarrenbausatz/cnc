@@ -1,5 +1,6 @@
 title: CNC Technik
 nav:
+- uebersicht.md
 - aluminiumprofile.md
 - linearführungen.md
 - kugelumlaufspindel.md

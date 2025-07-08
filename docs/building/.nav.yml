@@ -1,5 +1,6 @@
 title: CNC Fräse selberbauen
 nav:
+- selberbauen-uebersicht.md
 - Teile vorbereiten.md
 - Bau des Untergestells.md
 - Montage des Frästischs.md
