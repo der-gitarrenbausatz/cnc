@@ -108,6 +108,9 @@ function task_export_obsidian {
   find docs -type f -name "*.md" | while read -r file; do
     perl -0777 -i -pe 's/````toc\s*````\n?//g' "$file"
   done
+
+  info "Run markdown linter on exported docs"
+  pre-commit run --all-files
 }
 
 function task_usage() {
