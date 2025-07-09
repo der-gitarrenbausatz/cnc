@@ -28,11 +28,28 @@ Neben diesen Bausätzen habe ich unter [inspiration-videos-blogs](../planning/in
 
 Zu beachten ist jedoch, dass mit der Fräse bestimmte "Lizenzbedingungen" verbunden sind, die unerlaubten Verkauf (auch von Bauteilen) untersagen. Damit ist m.E. auch ausgeschlossen, dass eine selbst-gebaute (und nicht mehr benötigte) Volksfräse weiterverkauft werden kann.
 
+### Volksfräse - Technische Daten
+
 ## Indy Mill
 
 [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik) hat mit der [Indy Mill](https://indystry.cc/indymill-cnc-machine/) eine weitere interessante Einsteigs-CNC-Fräse entwickelt und stellt in dieser [YouTube Playlist](https://www.youtube.com/watch?v=rHl9UwlDZbE&list=PLktKi_COpyPRd8JZfjhskWSvsFN3Cb1v8) alle Schritte von der Planung, über Bau und Betrieb seiner Fräse vor.
 
 Auf der [Webseite](https://indystry.cc/indymill/) können alle Teilelisten eingesehen werden und .dxf Dateien runtergeladen werden. Ausserdem verkauft der Autor auch fertig gefräste Teile für die Fräse. Eine liebevoll gestaltet Bauanleitung steht gegen eine Aufwandsentschädigung zum Download zur Verfügung.
+
+## Das Endchen
+
+Das "Endchen" ist eine weitere Open Source CNC Fräse. Alle Infos finden sich unter [https://endchen.de/](https://endchen.de/). Dazu gibt es eine ausführliche [YouTube Playlist](https://www.youtube.com/playlist?list=PL7sPQE-nASLbIHW0nz9Ncl05iPm2T-TPU).
+
+### Das Endchen - Technische Daten
+
+Das Endchen gibt es laut Webseite in 3 Variationen:
+
+||Endchen Classic|Endchen ATC|Endchen Double Classic|
+|-|---------------|-----------|----------------------|
+|Bearbeitungsfläche|600 x 900mm|600 x 900mm|1000 x 950mm|
+|Z-Achse|200 mm|200 mm|200 mm|
+|Automatischer<br>Werkzeugwechsel|-|ja|-|
+|Antrieb Y-Achse|1 zentrale Spindel|1 zentrale Spindel|2 Spindeln|
 
 ## Free Milli
 
